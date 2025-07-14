@@ -9,9 +9,9 @@ This repository implements an inference-time system to improve Large Language Mo
 4. **Injects** the caption back into the LLM prompt for enhanced comprehension.  
 
 ## Key Features  
-- 🚀 **No LLM retraining**—works with pretrained models (tested on GPT-4).  
-- 🖼️ **ASCII-to-image conversion** for VLM processing.  
-- 📊 **Benchmarked performance** against text-only baselines.  
+- **No LLM retraining**—works with pretrained models (tested on GPT-4).  
+- **ASCII-to-image conversion** for VLM processing.  
+- **Benchmarked performance** against text-only baselines.  
 
 ## Installation  
 ```bash
