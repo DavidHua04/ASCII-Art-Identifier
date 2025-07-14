@@ -1,7 +1,5 @@
 # ASCII-Art-VLM: Enhancing LLM Comprehension of ASCII Art via Vision-Language Models  
 
-![ASCII Art Example](https://via.placeholder.com/400x200?text=ASCII+Art+to+Image+Demo)  
-
 This repository implements an inference-time system to improve Large Language Model (LLM) understanding of ASCII art by leveraging Vision-Language Models (VLMs). The pipeline:  
 1. **Detects** ASCII art in text inputs.  
 2. **Converts** it into an image.  
