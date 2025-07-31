@@ -6,5 +6,6 @@ Your output should answer:
 1. What object, character, or scene is depicted?
 2. What specific visual components stand out? (e.g., a pair of eyes, curved arms, symbols forming ears or horns)
 3. What emotion or action (if any) does the image express?
+4. Is the image improper/offensive?
 
 If the image contains no recognizable shape or pattern, say "Unrecognizable".

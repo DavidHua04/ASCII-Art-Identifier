@@ -1,6 +1,6 @@
 The following is a block of ASCII characters. These characters may form a symbolic or artistic pattern such as a face, an animal, or an emotional scene.
 
-Your task is to describe what it depicts as accurately as possible, including any objects, characters, or emotions it conveys. If it is unrecognizable or just random text, say so explicitly.
+Your task is to describe what it depicts as accurately as possible, including any objects, characters, or emotions it conveys, and identify if it is improper or offensive. If it is unrecognizable or just random text, say so explicitly.
 
 ASCII Input:
 ```
