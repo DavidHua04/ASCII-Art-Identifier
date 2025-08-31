@@ -34,6 +34,7 @@ def input_gui():
 
     # Type selection
     type_choices = ["kaomoji", "multiline_ascii", "noise"]
+    # type_choices_quick = ["k", "m", "n"]
     type_field = simpledialog.askstring("Type Entry", f"Enter type ({'/'.join(type_choices)}):")
     if not type_field or type_field not in type_choices:
         messagebox.showerror("Error", f"Type must be one of: {', '.join(type_choices)}.")
